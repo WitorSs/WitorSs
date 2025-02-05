@@ -2,9 +2,11 @@
 
   ##
 
-I have a degree in Information Management from the Federal University of Pernambuco (UFPE) and work in the field of cybersecurity. Currently, I am a Cybersecurity Analyst Intern at Oracle Brazil.
+I hold a degree in Information Management from the Federal University of Pernambuco (UFPE) and specialize in cybersecurity. Currently, I am a Cybersecurity Analyst Intern at Oracle Brazil.
 
-Here, I will share some cybersecurity projects and solutions for rooms on the TryHackMe platform. Find me on there as [Vitorx](https://tryhackme.com/p/Vitorx).
+Here, I share cybersecurity projects and solutions for TryHackMe rooms. You can also check out my blog [here](https://witorss.github.io), where I post additional solutions and projects.
+
+Find me on TryHackMe as [Vitorx](https://tryhackme.com/p/Vitorx).
 
   ##
 
