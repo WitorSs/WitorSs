@@ -8,6 +8,3 @@ Here, I share cybersecurity projects and solutions for TryHackMe rooms. You can 
 
 Find me on TryHackMe as [Vitorx](https://tryhackme.com/p/Vitorx).
 
-  ##
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WitorSs&count_private=true&show_icons=true&theme=merko)
